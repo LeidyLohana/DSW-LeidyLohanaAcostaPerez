@@ -1,34 +1,11 @@
-.titulo{
-    text-align: center;
-    width: 100%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding: 0px;
-    color: #005883;
-
-}
-.body{
-    font-family: 'Franklin Gothic Italic', 'Arial Narrow', Arial, sans-serif;
-    background-color: #b3b3b3;
-}
-.tituloBienvenida{
-    text-align: center;
-    font-size: 170%;
+.txt_header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #005883;
-}
-.contenidoBienvenida{
-    text-align: justify;
-    font-size: 120%;
-    width: 95%;
-    padding:10px;
 
+    text-align: center;
 }
 
-*{
-    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
-
-}
-.navegacion{
+.nav{
     width: 80%;
     margin: 30px auto;
     background: #005883;
@@ -36,10 +13,10 @@
     margin: 0;
     margin-left: 150px;
     align-content: center;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.navegacion ul{
+.nav ul{
     list-style: none;
     text-decoration: none;
     margin: 0;
@@ -59,12 +36,13 @@
 }
 
 .menu li a:hover{
-    background-color: #F0B429;
+    background-color: #F47920;
     transition: all .3s;
 }
 .submenu{
     position: absolute;
     background: #005883;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 175px;
     display: none;
 }
@@ -72,96 +50,74 @@
     display: block;
     padding: 15px;
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
 }
 .menu li:hover .submenu{
     display: block;
 }
-.logo{
-    height: 80px;
-    width: 105px;
-}
-.tablaObjetivosContenido{
-    width: 90%;
-    margin: 40px;
-    padding: 0;
-    border: 1px solid black;
-
-}
 li{
     line-height: 20px;
     text-decoration: none;
 }
-
-.dfooter{
-    color: white;
-    background-color: #F47920;
-    font-size: 17px;
-    bottom: 0px;
-    left: 0px;
-    width: 100%;
-    text-align: center;
-    height: 40px;
-    position: fixed;
-}
-
-.tituloTabla{
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 140%;
-    padding: 0;
-}
-#titulocontenido{
-    font-size: 170%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #005883;
-    width: 30%;
-    padding-left: 15px;
-}
-#referencias{
-    font-weight: bold;
-    text-decoration: underline;
-}
-#contenido{
-    text-align: justify;
-    line-height: 25px;
-}
-.autor{
+.autor {
     width: 100%;
     text-align: left;
     padding: 200px;
     border-collapse: collapse;
     margin-top: 20px;
 }
-#datospersonales{
-    text-align: center;
-    font-size: 140%;
-    background: #808080;
-    color: white;
-}
-#datoscontacto{
-    text-align: center;
-    font-size: 140%;
-    background: #808080;
-    color: white;
-}
-.autor tr{
-    height: 40px;
-}
-.autor td{
-    font-size: 120%;
-    padding-left: 10px;
+.text_subtitulos{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
     color: #005883;
-}
-.video1{
-    padding: 15px;
-}
-.tabla{
-    width: 90%;
-    margin-left: 45px;
-}
-.tabla td{
-    padding: 15px;
+    text-align: center;
 
+}
+.text_subtitulos2{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
+    color: #005883;
+    padding-left: 30px;
+}
+.text_pres{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.header_autor{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
+    color: #005883;
+    padding-left: 30px;
+
+}
+.header_autor1{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
+    color: #005883;
+    text-align: initial;
+
+}
+.table_estilo{
+    width: 80%;
+    border: 7px solid #F47920;
+    margin-left: 150px;
+    align-content: center;
+}
+.td1{
+
+    height: 400px;
+    text-align: left;
+    vertical-align: top;
+
+
+}
+.text_pres1{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: initial;
+}
+.text_pres2{
+    font-family: 'Franklin Gothic Medium Cond', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.foto{
+    margin-top: -120px;
 }

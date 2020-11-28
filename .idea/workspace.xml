@@ -20,19 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfe7562-7471-4923-8029-ba4f16cbaf07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/autor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display-block.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display-inline-block.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/display-inline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/propiedadesPrincipales.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/foto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/Matriz-EvalSite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actividades.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conceptos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autor.html" beforeDir="false" afterPath="$PROJECT_DIR$/autor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-block.html" beforeDir="false" afterPath="$PROJECT_DIR$/display-block.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-inline-block.html" beforeDir="false" afterPath="$PROJECT_DIR$/display-inline-block.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/display-inline.html" beforeDir="false" afterPath="$PROJECT_DIR$/display-inline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inicio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/planning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/propiedadesPrincipales.html" beforeDir="false" afterPath="$PROJECT_DIR$/propiedadesPrincipales.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursos.html" beforeDir="false" afterPath="$PROJECT_DIR$/recursos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +61,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Reposirotios Git\DSW-LeidyLohanaAcostaPerez\resource" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Reposirotios Git\DSW-LeidyLohanaAcostaPerez\resource" />
       <recent name="F:\Reposirotios Git\DSW-LeidyLohanaAcostaPerez\CSS" />
       <recent name="F:\Reposirotios Git\DSW-LeidyLohanaAcostaPerez" />
+      <recent name="F:\Reposirotios Git\DSW-LeidyLohanaAcostaPerez\resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Reposirotios Git\DSW-LeidyLohanaAcostaPerez\resource" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +80,9 @@
       <updated>1601402804460</updated>
       <workItem from="1601402805480" duration="15489000" />
       <workItem from="1604345505976" duration="610000" />
-      <workItem from="1604533979461" duration="25145000" />
+      <workItem from="1604533979461" duration="25385000" />
+      <workItem from="1604652051803" duration="259000" />
+      <workItem from="1606513481812" duration="9893000" />
     </task>
     <servers />
   </component>
@@ -110,6 +110,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="130" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1604535903767" />
+    <state x="1756" y="0" width="585" height="728" key="find.popup" timestamp="1606523817315">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1756" y="0" width="585" height="728" key="find.popup/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1606523817315" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1601412578861">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
